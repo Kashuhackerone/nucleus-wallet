@@ -32,3 +32,6 @@ patch:
         patched: '2020-11-02T13:45:46.135Z'
     - firebase-admin > @google-cloud/storage > gcs-resumable-upload > google-auth-library > gtoken > gaxios > https-proxy-agent:
         patched: '2020-11-02T13:45:46.135Z'
+  SNYK-JS-LODASH-567746:
+    - firebase-functions-test > lodash:
+        patched: '2021-06-09T01:17:37.398Z'
